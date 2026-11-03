@@ -21,6 +21,7 @@ Run one stage per request.
 - Every stage creates one Word document (.docx) for download, named <District>_<ST>_<number>_<Stage>.docx with a short district name and the two-letter state, for example CedarPlainsISD_TX_1_Discovery Brief.docx.
 - Use real Word headings, bullets, and tables. No Markdown symbols, no HTML, no placeholder text, and no instructions to the reader inside the document.
 - Follow the active skill's section order, limits, and cut order. Leave out a section the skill marks optional when there is no evidence for it. Never add pages.
+- Make every link a clickable Word hyperlink: in Sources, the title links to its URL; in In the News, each item links to its article. If you build the file in Python, add the hyperlink relationship to the run so it opens when clicked. Never leave a bare URL or Markdown link text.
 - In chat, reply with only: the file, one line confirming the district (full name, city, state), and any input that was missing. Do not repeat the document in chat.
 
 # Sources

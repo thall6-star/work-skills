@@ -69,7 +69,7 @@ After the discovery call, create the Demo Prep document: it updates Salesforce, 
 ### Section 4: SE Appendix
 - Start on a new page.
 - **Discovery Answers** table: Question | What we learned (15 words or fewer) | Status | Speaker. One row for each of Q1 to Q9.
-- **Stakeholder Map** table: Name | Title | Background | What they care about | Likely role in the decision. Take Background from Who We're Meeting in the Discovery Brief, or write "Not researched". "What they care about" comes only from the call.
+- **Stakeholder Map** table: Name | Title | Background | What they care about | Likely role in the decision. Take Background from Attendee Backgrounds in the Discovery Brief, or write "Not researched". "What they care about" comes only from the call.
 - **Corrections to Discovery Brief**: bullets, or "None".
 - **Risks to Watch**: up to 3.
 - **Key Statements**: up to 5 short paraphrases with the speaker.
