@@ -40,7 +40,7 @@ Research a district before discovery and create the Discovery Brief: a Word docu
 - Create a Word document named `<District>_<ST>_1_Discovery Brief.docx`. 3 pages maximum.
 
 ### Page 1: Rep Summary
-- Page 1 should fit on one page. Keep each section within its own limit. If page 1 still runs long, shorten in this order: In the News, Strategic Direction, Who We're Meeting backgrounds. Never shorten Brief, What We Understand, or Budget Timing.
+- Page 1 should fit on one page. Keep each section within its own limit. If page 1 still runs long, shorten in this order: In the News, Strategic Direction. Never shorten Brief, What We Understand, or Budget Timing.
 - Title: `<District full name> Discovery Brief`.
 - **Opportunity** table, two columns (label, value): District (full name, city, state, NCES ID if found); Discovery Date; {{VENDOR}} Products.
 - **District Facts** table, one row: Total Enrollment (with year and definition) | Schools (number of schools, not staff) | Total Budget (fund, FY, stage) | ERP (if publicly confirmed, otherwise "Unknown, ask Q2").
@@ -56,8 +56,7 @@ Research a district before discovery and create the Discovery Brief: a Word docu
     - Either: funding could come from current-year funds or mid-year savings, or from a line-item request for next year; Q9 decides.
     - Next-year request: funding would likely be a line-item request for next year's budget, and using the tool this cycle may require a parallel process.
   - Process Clues: up to 2 short bullets on what the calendar or budget book shows about how the budget is built, such as when principals or departments submit requests, when schools receive enrollment projections or staffing allocations, or how program budgets are packaged. Leave out if the sources show only generic dates.
-- **Who We're Meeting** table: Name | Title | Background | Budget Lens. One row per attendee, up to 4. If the district's top finance official is not among the attendees, add one row for them marked "(not attending)". If no attendees were given, include only that row.
-  - Background: 25 words or fewer, following the Attendee Research Rules.
+- **Who We're Meeting** table: Name | Title | Budget Lens. One row per attendee, up to 4. If the district's top finance official is not among the attendees, add one row for them marked "(not attending)". If no attendees were given, include only that row. Backgrounds go on page 3.
   - Budget Lens: one sentence beginning "Likely:" on what this person most likely needs from budget development, staffing allocations, or budget visibility. Prefer a district-specific reason.
 - **Strategic Direction**: one line naming the most recent strategic plan, board goals, or district improvement plan found, its type, its years, and its status: Current, Expired, In development, or Undated, with the source. Then its goal areas in the district's own words, up to 5, in one line. Leave out if none is found.
 - **In the News**: up to 2 lines about budget, staffing, enrollment, campuses, or leadership from the last 12 months, each with date and publisher. Report what happened without characterizing it. Leave out if none is found.
@@ -76,8 +75,9 @@ Q8. Who is involved in the allocation process, and what systems or tools do you 
 Q9. Where are you in planning next year's budget, and how would something like this typically get funded? (Timing)
 
 ### Page 3: SE Layer
-- Start on a new page. About half a page.
+- Start on a new page. About one page.
 - **Public Data Depth**: one line: Rich, Moderate, or Thin, then what was found and what was not. Rich: budget figures plus a published budget process or calendar. Moderate: budget figures without a published process. Thin: little or no budget detail.
+- **Attendee Backgrounds** table: Name | Background. Same rows as Who We're Meeting. Background: 25 words or fewer, following the Attendee Research Rules.
 - **Alternate Bullets**: up to 2 swap-in bullets that follow the Slide Bullet Rules.
 - **Bullet Support**: one line per slide bullet: the evidence, with any percentage first, then the source.
 - **Issues to Explore**: up to 3. Issue in bold, then one line each for Evidence, What it could mean, and Question to validate.

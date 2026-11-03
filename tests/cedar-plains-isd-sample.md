@@ -63,10 +63,10 @@ Trustees adopted the 2026-27 General Fund budget on Aug. 25, 2026, with spending
 
 **Who We're Meeting**
 
-| Name | Title | Background | Budget Lens |
-|---|---|---|---|
-| Dr. Alan Reyes | Deputy Superintendent of Finance and Operations/CFO | Named CFO and Assistant Superintendent of Business Support Services, April 2022; earlier principal, Westbrook Middle School, and assistant principal, Lakeview High School. | Likely: narrowing the $3.6 million 2026-27 gap during the year while enrollment falls and campuses close. |
-| Dana Whitfield | Director of Financial Services | No public background found. | Likely: assembling program budget packages and tracking spending against the adopted budget. |
+| Name | Title | Budget Lens |
+|---|---|---|
+| Dr. Alan Reyes | Deputy Superintendent of Finance and Operations/CFO | Likely: narrowing the $3.6 million 2026-27 gap during the year while enrollment falls and campuses close. |
+| Dana Whitfield | Director of Financial Services | Likely: assembling program budget packages and tracking spending against the adopted budget. |
 
 **Strategic Direction**
 
@@ -84,6 +84,13 @@ The call sheet should match the opening and Q1 to Q9 in [`deal-discovery-prep`](
 ## Page 3: SE Layer
 
 **Public Data Depth:** Moderate. Found: adopted 2026-27 budget figures, five years of enrollment and staffing, and program budget packages. Not found: a budget calendar, a budget process description, and the ERP.
+
+**Attendee Backgrounds**
+
+| Name | Background |
+|---|---|
+| Dr. Alan Reyes | Named CFO and Assistant Superintendent of Business Support Services, April 2022; earlier principal, Westbrook Middle School, and assistant principal, Lakeview High School. |
+| Dana Whitfield | No public background found. |
 
 **Alternate Bullets**
 
