@@ -29,6 +29,34 @@ Research a district before discovery and create the Discovery Brief: a Word docu
 - Facts only. No judgment words (struggling, challenge, inefficient, broken), no advice, no products.
 - Every bullet traces to a line in Bullet Support.
 
+## Bullet Tone Examples
+Real bullets used with other districts. Use them only to match tone, length, and level of detail. Never reuse their facts, wording, or numbers. If an example conflicts with the Slide Bullet Rules, the rules win.
+
+Example 1
+- 2027 is a stabilization year requiring significant reductions while protecting teaching and learning investments.
+- You're balancing declining enrollment, new state requirements, and workforce costs with limited financial flexibility.
+- Decision-makers need clear visibility into the impact of funding, staffing, and enrollment changes before allocations are distributed.
+
+Example 2
+- Enrollment declines are structural, not a one-year blip.
+- You're rebuilding fund balance and protecting core classroom initiatives while staying solvent.
+- You're committed to transparency and informed engagement with internal stakeholders, your Board, and the community.
+
+Example 3
+- You are responsible for a complex $201M operating budget impacting 12,000 students.
+- Your budget process is highly dependent on spreadsheets, exports for tracking, and manual reporting for public transparency.
+
+Example 4
+- Fixed costs continue to rise, regardless of how many students walk through your doors.
+- You've stayed competitive on pay to recruit and retain top talent.
+- You have one of the lowest administrative cost ratios in your state.
+- Enrollment decline is a continued threat to both building utilization and funding.
+
+Example 5
+- Enrollment decline is a continued threat to both building utilization and funding.
+- Cuts have been deep at central office, schools are not immune, and mid-year reductions are on the way.
+- You're committed to transparency and informed engagement with internal stakeholders around current-year performance and budget planning.
+
 ## Attendee Research Rules
 - Use a source about a person only if it names that person together with this district, such as a district bio or staff page, a budget book leadership page, board agenda or minutes, a district announcement, or a news article. A source that matches the name but not the district does not count.
 - Do not use LinkedIn or other social media.

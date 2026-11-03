@@ -16,6 +16,7 @@ Run the full test set before the pilot and after every change, one change at a t
 - [ ] Correct district and file name; chat reply is one or two lines
 - [ ] Budget figures are the latest stage and labeled
 - [ ] 3 slide bullets that follow the Slide Bullet Rules; page 1 fits one page
+- [ ] Bullets match the Bullet Tone Examples in tone and length, and reuse none of their facts or wording
 - [ ] Timing Read matches the month rule
 - [ ] Every attendee background is about the right person, or says "No public background found"; backgrounds are on page 3, not page 1
 - [ ] Source titles and In the News items are clickable links
